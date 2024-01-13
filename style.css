@@ -95,7 +95,7 @@ iframe {
 /*HOME
 --------------*/
 #home{
-    background-image: url(file:///C:/Users/iwaha/Desktop/WCBCafe/images/main-bg.jpg);
+    background-image: url(https://raw.githubusercontent.com/sakusaku04/cafe/main/images/main-bg.jpg);
     min-height: 100vh;
 }
 #home.page-title{
@@ -116,7 +116,7 @@ iframe {
 /*NEWS
 -----------------------*/
 #news{
-    background-image: url(../images/news-bg.jpg);
+    background-image: url(https://raw.githubusercontent.com/sakusaku04/cafe/main/images/news-bg.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -219,7 +219,7 @@ aside p{
 /*MENU
 -----------------------*/
 #menu{
-    background-image: url(../images/menu-bg.jpg);
+    background-image: url(https://raw.githubusercontent.com/sakusaku04/cafe/main/images/menu-bg.jpg);
     min-height: 100vh;
 }
 .menu-content{
@@ -245,7 +245,7 @@ aside p{
 /*CONTACT
 --------------------------*/
 #contact{
-    background-image: url(../images/contact-bg.jpg);
+    background-image: url(https://raw.githubusercontent.com/sakusaku04/cafe/main/images/contact-bg.jpg);
     min-height: 100vh;
 }
 
